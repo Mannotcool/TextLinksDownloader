@@ -18,4 +18,7 @@
 Optimize the software.
 
 
-#######logo made by logomakr
+
+
+
+ˡᵒᵍᵒ ᵐᵃᵈᵉ ᵇʸ ˡᵒᵍᵒᵐᵃᵏʳ
