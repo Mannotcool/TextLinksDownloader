@@ -9,7 +9,8 @@
  This Software** Requres:**
 > ``- Python 3.0``
 `- urllib (comes with Python 3.0 package)``
-`
+> ``- Python 3.0``
+`- random (comes with Python 3.0 package)``
 
  All you need to do is open urls.txt and add any urls and run the batch skript.
  
